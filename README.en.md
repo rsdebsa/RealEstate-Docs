@@ -55,8 +55,8 @@ All source code, system architecture, and technical documents are stored in the 
 
 | Role | Member | Responsibility |
 |------|---------|----------------|
-| Backend Developer | You | Core API development & architecture |
-| Frontend Developer | Mehran | UI design & API integration |
+| Backend Developer | Araz Dabagh | Core API development & architecture |
+| Frontend Developer | Mehran Molakazemi | UI design & API integration |
 
 ---
 
